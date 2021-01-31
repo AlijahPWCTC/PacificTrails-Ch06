@@ -29,8 +29,11 @@ h1 {
   font-family: Georgia, "Times New Roman", serif;
 }
 nav { 
-  background-color: #BBDEFB; 
+  background-color: #ffffff; 
   font-weight: bold;
+  text-align: center;
+  padding: 1em;
+  margin-top: 0;
 }
 nav a { text-decoration: none; }
 h2 { 

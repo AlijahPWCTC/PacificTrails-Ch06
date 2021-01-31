@@ -5,6 +5,14 @@ body {
   background-image: linear-gradient(to bottom, #FFFFFF, #90C7E3);
   background-repeat: no-repeat;
 }
+#wrapper { 
+  width: 80%; 
+  margin: auto;
+  background-color: #FFFFFF;
+  min-width: 960px;
+  max-width: 2048px;
+  box-shadow: 3px 3px 3px #333;
+}
 header { 
   background-color: #002171; 
   color: #FFFFFF; 
